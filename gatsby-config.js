@@ -5,5 +5,5 @@
  */
 
 module.exports = {
-  /* Your site config here */
+  plugins: [`gatsby-source-graphql-aot`],
 }
